@@ -1,0 +1,162 @@
+{
+  "sections": [
+    {
+      "id": "traditions",
+      "title_ua": "Традиції",
+      "title_en": "Traditions",
+      "previewImage": "traditions-prewiew.jpg",
+      "items": [
+        {
+          "id": "vyshyvanka",
+          "title_ua": "Вишиванка",
+          "title_en": "Vyshyvanka",
+          "description_title_ua": "Традиційна українська сорочка",
+          "description_title_en": "Traditional Ukrainian embroidered shirt",
+          "description_ua": "Вишиванка — це традиційна українська сорочка, прикрашена вишивкою, яка має глибоке символічне значення. Кожен візерунок і колір може розповідати історію чи передавати побажання. Вишиванки носять на свята та важливі події, як символ національної ідентичності.",
+          "description_en": "Vyshyvanka is a traditional Ukrainian embroidered shirt with deep symbolic meaning. Each pattern and color can tell a story or convey wishes. They are worn on holidays and significant events as a symbol of national identity.",
+          "image": "vyshyvanka.jpg"
+        },
+        {
+          "id": "pysanka",
+          "title_ua": "Писанка",
+          "title_en": "Pysanka",
+          "description_title_ua": "Розписане яйце",
+          "description_title_en": "Painted egg",
+          "description_ua": "Писанка — це яйце, розписане спеціальними орнаментами за допомогою воску та барвників. Ця традиція сягає дохристиянських часів і пов’язана з весняним відродженням. Кожен символ на писанці має своє значення, наприклад, зірки символізують небо.",
+          "description_en": "Pysanka is an egg decorated with special patterns using wax and dyes. This tradition dates back to pre-Christian times and is linked to spring renewal. Each symbol on a pysanka has its meaning, such as stars representing the sky.",
+          "image": "pysanka.jpg"
+        }
+      ]
+    },
+    {
+      "id": "holidays",
+      "title_ua": "Свята",
+      "title_en": "Holidays",
+      "previewImage": "holidays-prewiew.jpg",
+      "items": [
+        {
+          "id": "kupala",
+          "title_ua": "Івана Купала",
+          "title_en": "Ivan Kupala",
+          "description_title_ua": "Свято літнього сонцестояння",
+          "description_title_en": "Midsummer festival",
+          "description_ua": "Івана Купала — це давнє свято літнього сонцестояння, яке відзначається в ніч з 6 на 7 липня. Люди плетуть вінки, стрибають через вогнища і шукають легендарну квітку папороті, що, за повір’ям, приносить щастя і багатство.",
+          "description_en": "Ivan Kupala is an ancient midsummer festival celebrated on the night of July 6-7. People weave wreaths, jump over bonfires, and search for the mythical fern flower, believed to bring happiness and wealth.",
+          "image": "kupala.jpg"
+        },
+        {
+          "id": "rizdvo",
+          "title_ua": "Різдво",
+          "title_en": "Christmas",
+          "description_title_ua": "Свято різдва Христового",
+          "description_title_en": "Christmas celebration",
+          "description_ua": "Різдво в Україні святкують 7 січня за юліанським календарем. Це час родинних традицій, коли співають колядки, готують 12 страв на Святвечір і прикрашають дідуха — символ достатку і зв’язку з предками.",
+          "description_en": "Christmas in Ukraine is celebrated on January 7 according to the Julian calendar. It’s a time of family traditions, singing carols, preparing 12 dishes for Christmas Eve, and decorating a didukh — a symbol of prosperity and connection to ancestors.",
+          "image": "rizdvo.jpg"
+        }
+      ]
+    },
+    {
+      "id": "cuisine",
+      "title_ua": "Кухня",
+      "title_en": "Cuisine",
+      "previewImage": "cuisine-prewiew.jpg",
+      "items": [
+        {
+          "id": "borshch",
+          "title_ua": "Борщ",
+          "title_en": "Borscht",
+          "description_title_ua": "Традиційна українська юшка",
+          "description_title_en": "Traditional Ukrainian beet soup",
+          "description_ua": "Борщ — це традиційна українська юшка з буряка, яка має безліч регіональних варіацій. Його готують із овочами, м’ясом чи грибами, подають зі сметаною та пампушками. Ця страва є символом української гостинності.",
+          "description_en": "Borsch is a traditional Ukrainian beet soup with numerous regional variations. It’s made with vegetables, meat, or mushrooms, served with sour cream and garlic rolls (pampushky). This dish is a symbol of Ukrainian hospitality.",
+          "image": "borsch.jpg"
+        },
+        {
+          "id": "varenyky",
+          "title_ua": "Вареники",
+          "title_en": "Varenyky",
+          "description_title_ua": "Українські варені пиріжки",
+          "description_title_en": "Ukrainian boiled dumplings",
+          "description_ua": "Вареники — це українські варені пиріжки з різноманітними начинками: картоплею, сиром, вишнями чи м’ясом. Їх часто подають зі сметаною або смаженою цибулею. Ця страва популярна як у будні, так і на свята.",
+          "description_en": "Varenyky are Ukrainian boiled dumplings with various fillings: potatoes, cheese, cherries, or meat. They’re often served with sour cream or fried onions. This dish is popular both on weekdays and holidays.",
+          "image": "varenyky.jpg"
+        }
+      ]
+    },
+    {
+      "id": "art",
+      "title_ua": "Мистецтво",
+      "title_en": "Art",
+      "previewImage": "art-prewiew.jpg",
+      "items": [
+        {
+          "id": "hopak",
+          "title_ua": "Гопак",
+          "title_en": "Hopak",
+          "description_title_ua": "Український народний танець",
+          "description_title_en": "Ukrainian folk dance",
+          "description_ua": "Гопак — це традиційний український народний танець, який виник серед козаків. Він відомий своєю енергійністю, акробатичними рухами та яскравими костюмами. Гопак часто виконують на святах і фестивалях.",
+          "description_en": "Hopak is a traditional Ukrainian folk dance that originated among the Cossacks. It’s known for its energy, acrobatic movements, and colorful costumes. Hopak is often performed at celebrations and festivals.",
+          "image": "hopak.jpg"
+        }
+      ]
+    },
+    {
+      "id": "music",
+      "title_ua": "Музика",
+      "title_en": "Music",
+      "previewImage": "music-prewiew.jpg",
+      "items": [
+        {
+          "id": "bandura",
+          "title_ua": "Бандура",
+          "title_en": "Bandura",
+          "description_title_ua": "Український струнний інструмент",
+          "description_title_en": "Ukrainian string instrument",
+          "description_ua": "Бандура — це струнний щипковий інструмент з довгою історією, який відомий в Україні з давніх часів. Він має унікальний звук та використовується для виконання народних пісень та музики. Бандуристи часто виступають на святах та концертах.",
+          "description_en": "Bandura is a stringed plucked instrument with a long history, known in Ukraine since ancient times. It has a unique sound and is used to perform folk songs and music. Bandura players often perform at celebrations and concerts.",
+          "image": "bandura.jpg"
+        },
+        {
+          "id": "sopilka",
+          "title_ua": "Сопілка",
+          "title_en": "Sopilka",
+          "description_title_ua": "Духовий народний інструмент.",
+          "description_title_en": "Folk wind instrument.",
+          "description_ua": "Сопілка — це традиційний український духовий інструмент, виготовлений із дерева або очерету. Її ніжний звук часто супроводжує народні пісні та танці, відображаючи душу українського села.",
+          "description_en": "Sopilka is a traditional Ukrainian wind instrument made of wood or reed. Its gentle sound often accompanies folk songs and dances, reflecting the soul of the Ukrainian countryside.",
+          "image": "sopilka.jpg"
+        }
+      ]
+    },
+    {
+      "id": "history",
+      "title_ua": "Історія",
+      "title_en": "History",
+      "previewImage": "history-prewiew.jpg",
+      "items": [
+        {
+          "id": "kyivan-rus",
+          "title_ua": "Київська Русь",
+          "title_en": "Kyivan Rus",
+          "description_title_ua": "Давня держава східних слов’ян.",
+          "description_title_en": "Ancient state of Eastern Slavs.",
+          "description_ua": "Київська Русь — це середньовічна держава, що існувала з IX до XIII століття на території сучасної України, Білорусі та частини Росії. Її центром був Київ, а правителі, як-от Володимир Великий, сприяли хрещенню Русі та її розквіту.",
+          "description_en": "Kyivan Rus was a medieval state that existed from the 9th to the 13th century across modern-day Ukraine, Belarus, and parts of Russia. Its center was Kyiv, and rulers like Volodymyr the Great facilitated the Christianization and flourishing of Rus.",
+          "image": "kyivan-rus.jpg"
+        },
+        {
+          "id": "cossack-era",
+          "title_ua": "Козацька доба",
+          "title_en": "Cossack Era",
+          "description_title_ua": "Час козацької вольності.",
+          "description_title_en": "Time of Cossack freedom.",
+          "description_ua": "Козацька доба — це період XVI-XVIII століть, коли козаки стали символом боротьби за свободу України. Запорозька Січ була їхньою автономною базою, а гетьмани, як Богдан Хмельницький, очолювали повстання проти гноблення.",
+          "description_en": "The Cossack Era, spanning the 16th to 18th centuries, was a time when Cossacks became a symbol of Ukraine’s fight for freedom. The Zaporozhian Sich was their autonomous base, and hetmans like Bohdan Khmelnytsky led uprisings against oppression.",
+          "image": "cossack-era.jpg"
+        }
+      ]
+    }
+  ]
+}
