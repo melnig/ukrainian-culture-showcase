@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/ukrainian-culture-showcase/static/css/main.85632147.css",
-    "main.js": "/ukrainian-culture-showcase/static/js/main.b0193dc7.js",
+    "main.js": "/ukrainian-culture-showcase/static/js/main.1ca0438b.js",
     "index.html": "/ukrainian-culture-showcase/index.html",
     "main.85632147.css.map": "/ukrainian-culture-showcase/static/css/main.85632147.css.map",
-    "main.b0193dc7.js.map": "/ukrainian-culture-showcase/static/js/main.b0193dc7.js.map"
+    "main.1ca0438b.js.map": "/ukrainian-culture-showcase/static/js/main.1ca0438b.js.map"
   },
   "entrypoints": [
     "static/css/main.85632147.css",
-    "static/js/main.b0193dc7.js"
+    "static/js/main.1ca0438b.js"
   ]
 }
